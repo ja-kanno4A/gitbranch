@@ -1,3 +1,5 @@
 Hello World!
  mainブランチでhoge.txtに追記
  fuetureブランチでhoge.txtに追記
+ #hogera 
+ ほげら 
